@@ -1,0 +1,2164 @@
+
+(bleachbit:1632): Gdk-CRITICAL **: 12:24:22.059: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 100.6MB 
+Disk space recovered: 100.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1494): Gdk-CRITICAL **: 12:27:16.835: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 100.6MB 
+Disk space recovered: 100.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1490): Gdk-CRITICAL **: 20:12:24.322: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 100.6MB 
+Disk space recovered: 100.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:23636): Gdk-CRITICAL **: 18:12:28.766: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 104.9MB 
+Disk space recovered: 104.9MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:31109): Gdk-CRITICAL **: 16:12:29.957: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 104.8MB 
+Disk space recovered: 104.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:39272): Gdk-CRITICAL **: 14:12:31.305: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.3MB 
+Disk space recovered: 105.3MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:45194): Gdk-CRITICAL **: 12:12:32.351: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.3MB 
+Disk space recovered: 105.3MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:51081): Gdk-CRITICAL **: 10:12:36.198: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.3MB 
+Disk space recovered: 105.3MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:57086): Gdk-CRITICAL **: 08:12:37.582: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.3MB 
+Disk space recovered: 105.3MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:64171): Gdk-CRITICAL **: 06:12:38.900: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.3MB 
+Disk space recovered: 105.3MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:70270): Gdk-CRITICAL **: 04:12:41.147: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 156.8MB 
+Disk space recovered: 156.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:81707): Gdk-CRITICAL **: 02:12:43.387: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.6MB 
+Disk space recovered: 105.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:90423): Gdk-CRITICAL **: 00:12:47.315: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.1MB 
+Disk space recovered: 109.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:102554): Gdk-CRITICAL **: 22:12:48.474: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.4MB 
+Disk space recovered: 107.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:112044): Gdk-CRITICAL **: 20:12:50.118: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.6MB 
+Disk space recovered: 105.6MB
+Files deleted: 0
+Special operations: 2
+
+Очистка системы...
+Запуск bot_main.py...
+Запуск newsletter.py...
+Очистка системы...
+Очистка системы...
+Очистка системы...
+Очистка системы...
+Очистка системы...
+Очистка системы...
+Очистка системы...
+Очистка системы...
+Очистка системы...
+Очистка системы...
+Очистка системы...
+Очистка системы...
+bot_main.py завершил работу. Вывод:
+
+Ошибки:
+2024-04-03 16:24:45,413 (__init__.py:1021 MainThread) ERROR - TeleBot: "Infinity polling exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+2024-04-03 16:24:45,414 (__init__.py:1023 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1016, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1104, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1179, in __threaded_polling
+    raise e
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 92, in run
+    task(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 158, in _make_request
+    result = _get_req_session().request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+"
+2024-04-05 14:31:57,221 (__init__.py:1021 MainThread) ERROR - TeleBot: "Infinity polling exception: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)"
+2024-04-05 14:31:57,221 (__init__.py:1023 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.10/ssl.py", line 1303, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.10/ssl.py", line 1159, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 719, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 448, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 337, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1016, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1104, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1179, in __threaded_polling
+    raise e
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 92, in run
+    task(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 158, in _make_request
+    result = _get_req_session().request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+"
+2024-04-05 14:34:05,857 (__init__.py:1021 MainThread) ERROR - TeleBot: "Infinity polling exception: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)"
+2024-04-05 14:34:05,857 (__init__.py:1023 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.10/ssl.py", line 1303, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.10/ssl.py", line 1159, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 719, in reraise
+    raise value
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 448, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 337, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1016, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1104, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1179, in __threaded_polling
+    raise e
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 92, in run
+    task(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 158, in _make_request
+    result = _get_req_session().request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 529, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=25)
+"
+2024-04-10 04:01:00,976 (__init__.py:1021 MainThread) ERROR - TeleBot: "Infinity polling exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+2024-04-10 04:01:00,977 (__init__.py:1023 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1016, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1104, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1179, in __threaded_polling
+    raise e
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 92, in run
+    task(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 158, in _make_request
+    result = _get_req_session().request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+"
+2024-04-10 04:14:26,879 (__init__.py:1021 MainThread) ERROR - TeleBot: "Infinity polling exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+2024-04-10 04:14:26,879 (__init__.py:1023 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1016, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1104, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1179, in __threaded_polling
+    raise e
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 92, in run
+    task(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 158, in _make_request
+    result = _get_req_session().request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+"
+2024-04-10 09:35:16,103 (__init__.py:1021 MainThread) ERROR - TeleBot: "Infinity polling exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+2024-04-10 09:35:16,104 (__init__.py:1023 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1016, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1104, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1179, in __threaded_polling
+    raise e
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 92, in run
+    task(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 158, in _make_request
+    result = _get_req_session().request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+"
+2024-04-10 20:36:02,286 (__init__.py:1021 MainThread) ERROR - TeleBot: "Infinity polling exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+2024-04-10 20:36:02,287 (__init__.py:1023 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1016, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1104, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1179, in __threaded_polling
+    raise e
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 92, in run
+    task(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 158, in _make_request
+    result = _get_req_session().request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+"
+2024-04-10 20:39:06,080 (__init__.py:1021 MainThread) ERROR - TeleBot: "Infinity polling exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+2024-04-10 20:39:06,081 (__init__.py:1023 MainThread) ERROR - TeleBot: "Exception traceback:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 446, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 441, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/usr/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.10/http/client.py", line 287, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1016, in infinity_polling
+    self.polling(non_stop=True, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1104, in polling
+    self.__threaded_polling(non_stop=non_stop, interval=interval, timeout=timeout, long_polling_timeout=long_polling_timeout,
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1179, in __threaded_polling
+    raise e
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 1140, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 110, in raise_exceptions
+    raise self.exception_info
+  File "/usr/local/lib/python3.10/dist-packages/telebot/util.py", line 92, in run
+    task(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 661, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+  File "/usr/local/lib/python3.10/dist-packages/telebot/__init__.py", line 633, in get_updates
+    json_updates = apihelper.get_updates(
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 321, in get_updates
+    return _make_request(token, method_url, params=payload)
+  File "/usr/local/lib/python3.10/dist-packages/telebot/apihelper.py", line 158, in _make_request
+    result = _get_req_session().request(
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+"
+
+(bleachbit:113143): Gdk-CRITICAL **: 23:55:57.098: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.6MB 
+Disk space recovered: 105.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:119956): Gdk-CRITICAL **: 21:56:00.623: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.6MB 
+Disk space recovered: 105.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:124909): Gdk-CRITICAL **: 19:56:04.410: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.6MB 
+Disk space recovered: 105.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:132007): Gdk-CRITICAL **: 17:56:06.211: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.6MB 
+Disk space recovered: 105.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:141847): Gdk-CRITICAL **: 15:56:08.475: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.6MB 
+Disk space recovered: 105.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:155188): Gdk-CRITICAL **: 13:56:10.888: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 105.6MB 
+Disk space recovered: 105.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:166574): Gdk-CRITICAL **: 11:56:14.272: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.3MB 
+Disk space recovered: 106.3MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:178092): Gdk-CRITICAL **: 09:56:15.732: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.6MB 
+Disk space recovered: 106.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:183489): Gdk-CRITICAL **: 07:56:17.861: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.6MB 
+Disk space recovered: 106.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:189448): Gdk-CRITICAL **: 05:56:20.628: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.6MB 
+Disk space recovered: 106.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:197844): Gdk-CRITICAL **: 03:56:22.169: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.6MB 
+Disk space recovered: 106.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:205265): Gdk-CRITICAL **: 01:56:23.724: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.7MB 
+Disk space recovered: 106.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:212338): Gdk-CRITICAL **: 23:56:24.834: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.8MB 
+Disk space recovered: 106.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:216377): Gdk-CRITICAL **: 13:12:57.358: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.8MB 
+Disk space recovered: 106.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:225942): Gdk-CRITICAL **: 11:13:00.344: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107MB 
+Disk space recovered: 107MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:234632): Gdk-CRITICAL **: 09:13:04.061: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107MB 
+Disk space recovered: 107MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:245272): Gdk-CRITICAL **: 07:13:06.573: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.8MB 
+Disk space recovered: 106.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:254346): Gdk-CRITICAL **: 05:13:10.155: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.8MB 
+Disk space recovered: 106.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:260958): Gdk-CRITICAL **: 03:13:12.921: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.8MB 
+Disk space recovered: 106.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:268357): Gdk-CRITICAL **: 01:13:15.016: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107MB 
+Disk space recovered: 107MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:278620): Gdk-CRITICAL **: 23:13:17.942: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.8MB 
+Disk space recovered: 106.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:289265): Gdk-CRITICAL **: 21:13:20.752: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.8MB 
+Disk space recovered: 106.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:298721): Gdk-CRITICAL **: 19:13:24.513: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.8MB 
+Disk space recovered: 106.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:305495): Gdk-CRITICAL **: 17:13:27.195: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.7MB 
+Disk space recovered: 106.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:314573): Gdk-CRITICAL **: 15:13:31.013: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.7MB 
+Disk space recovered: 106.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:324234): Gdk-CRITICAL **: 13:13:34.178: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.7MB 
+Disk space recovered: 106.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:324818): Gdk-CRITICAL **: 15:14:52.149: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.7MB 
+Disk space recovered: 106.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:336434): Gdk-CRITICAL **: 13:14:57.753: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 106.9MB 
+Disk space recovered: 106.9MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:353504): Gdk-CRITICAL **: 11:15:01.615: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.2MB 
+Disk space recovered: 107.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:364211): Gdk-CRITICAL **: 09:15:04.483: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.1MB 
+Disk space recovered: 107.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:368146): Gdk-CRITICAL **: 15:48:48.649: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.1MB 
+Disk space recovered: 107.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:381040): Gdk-CRITICAL **: 13:48:49.916: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.1MB 
+Disk space recovered: 107.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:388975): Gdk-CRITICAL **: 11:48:51.644: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.1MB 
+Disk space recovered: 107.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:396445): Gdk-CRITICAL **: 09:48:55.546: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.1MB 
+Disk space recovered: 107.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:405287): Gdk-CRITICAL **: 07:48:57.253: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.1MB 
+Disk space recovered: 107.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:416085): Gdk-CRITICAL **: 05:49:01.210: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.1MB 
+Disk space recovered: 107.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:423761): Gdk-CRITICAL **: 03:49:04.198: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:438361): Gdk-CRITICAL **: 00:13:27.309: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:438961): Gdk-CRITICAL **: 01:34:44.005: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:448010): Gdk-CRITICAL **: 23:34:50.020: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:455828): Gdk-CRITICAL **: 21:34:53.500: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.7MB 
+Disk space recovered: 107.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:464588): Gdk-CRITICAL **: 19:34:55.776: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.7MB 
+Disk space recovered: 107.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:465095): Gdk-CRITICAL **: 20:30:12.708: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.7MB 
+Disk space recovered: 107.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:472124): Gdk-CRITICAL **: 18:30:14.852: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.7MB 
+Disk space recovered: 107.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:478995): Gdk-CRITICAL **: 16:30:17.792: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.7MB 
+Disk space recovered: 107.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:486242): Gdk-CRITICAL **: 12:17:33.347: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.7MB 
+Disk space recovered: 107.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:486588): Gdk-CRITICAL **: 12:23:10.837: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.7MB 
+Disk space recovered: 107.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:494214): Gdk-CRITICAL **: 10:23:15.682: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:499416): Gdk-CRITICAL **: 08:23:18.320: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:503517): Gdk-CRITICAL **: 02:46:56.184: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:503997): Gdk-CRITICAL **: 02:56:58.914: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:504627): Gdk-CRITICAL **: 03:17:20.980: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:505373): Gdk-CRITICAL **: 04:13:19.922: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:510207): Gdk-CRITICAL **: 02:13:24.740: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:514580): Gdk-CRITICAL **: 00:13:26.440: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:518723): Gdk-CRITICAL **: 22:13:29.365: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:523220): Gdk-CRITICAL **: 20:13:30.425: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:527533): Gdk-CRITICAL **: 18:13:34.376: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:532000): Gdk-CRITICAL **: 16:13:35.805: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.1MB 
+Disk space recovered: 108.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:539029): Gdk-CRITICAL **: 14:13:37.797: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:543066): Gdk-CRITICAL **: 12:13:40.169: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:546536): Gdk-CRITICAL **: 10:13:42.652: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:549763): Gdk-CRITICAL **: 08:13:43.687: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:553173): Gdk-CRITICAL **: 06:13:45.882: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:557087): Gdk-CRITICAL **: 04:13:47.569: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:560050): Gdk-CRITICAL **: 21:41:04.468: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.8MB 
+Disk space recovered: 107.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:568297): Gdk-CRITICAL **: 19:41:07.994: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.2MB 
+Disk space recovered: 108.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:579528): Gdk-CRITICAL **: 17:41:10.358: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 107.9MB 
+Disk space recovered: 107.9MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:592600): Gdk-CRITICAL **: 15:41:13.123: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 157.6MB 
+Disk space recovered: 157.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:608634): Gdk-CRITICAL **: 13:41:14.723: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.1MB 
+Disk space recovered: 108.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:617746): Gdk-CRITICAL **: 11:41:17.100: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.1MB 
+Disk space recovered: 108.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:629207): Gdk-CRITICAL **: 09:41:20.882: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.1MB 
+Disk space recovered: 108.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:638907): Gdk-CRITICAL **: 07:41:22.351: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.1MB 
+Disk space recovered: 108.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:651020): Gdk-CRITICAL **: 05:41:23.661: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.5MB 
+Disk space recovered: 108.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:659623): Gdk-CRITICAL **: 03:41:26.259: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.3MB 
+Disk space recovered: 108.3MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:670673): Gdk-CRITICAL **: 22:02:21.522: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.4MB 
+Disk space recovered: 108.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:682723): Gdk-CRITICAL **: 20:02:23.984: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.5MB 
+Disk space recovered: 108.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:693800): Gdk-CRITICAL **: 18:02:25.706: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.4MB 
+Disk space recovered: 108.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:704800): Gdk-CRITICAL **: 16:02:28.636: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.4MB 
+Disk space recovered: 108.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:714820): Gdk-CRITICAL **: 14:02:29.923: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.4MB 
+Disk space recovered: 108.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:723495): Gdk-CRITICAL **: 12:02:31.383: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.4MB 
+Disk space recovered: 108.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:732793): Gdk-CRITICAL **: 10:02:32.602: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.5MB 
+Disk space recovered: 108.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:744756): Gdk-CRITICAL **: 08:02:36.564: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 108.5MB 
+Disk space recovered: 108.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:754600): Gdk-CRITICAL **: 06:02:37.853: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.2MB 
+Disk space recovered: 109.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:758912): Gdk-CRITICAL **: 04:02:40.159: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.2MB 
+Disk space recovered: 109.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:766632): Gdk-CRITICAL **: 02:02:41.840: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109MB 
+Disk space recovered: 109MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:778726): Gdk-CRITICAL **: 00:02:45.950: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109MB 
+Disk space recovered: 109MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:791191): Gdk-CRITICAL **: 22:02:48.670: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109MB 
+Disk space recovered: 109MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:792099): Gdk-CRITICAL **: 00:22:47.276: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109MB 
+Disk space recovered: 109MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:804227): Gdk-CRITICAL **: 22:22:48.854: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.4MB 
+Disk space recovered: 109.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:816249): Gdk-CRITICAL **: 20:22:52.432: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.8MB 
+Disk space recovered: 109.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:828556): Gdk-CRITICAL **: 18:22:55.407: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 159.4MB 
+Disk space recovered: 159.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:847016): Gdk-CRITICAL **: 16:22:58.268: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.2MB 
+Disk space recovered: 109.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:858087): Gdk-CRITICAL **: 14:23:00.822: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.2MB 
+Disk space recovered: 109.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:870489): Gdk-CRITICAL **: 12:23:02.755: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.2MB 
+Disk space recovered: 109.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:880011): Gdk-CRITICAL **: 10:23:06.032: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.2MB 
+Disk space recovered: 109.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:890676): Gdk-CRITICAL **: 08:23:09.589: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 110.8MB 
+Disk space recovered: 110.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:900527): Gdk-CRITICAL **: 06:23:12.830: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.4MB 
+Disk space recovered: 109.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:910784): Gdk-CRITICAL **: 04:23:14.600: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.4MB 
+Disk space recovered: 109.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:919722): Gdk-CRITICAL **: 21:54:13.431: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.4MB 
+Disk space recovered: 109.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:920549): Gdk-CRITICAL **: 23:05:26.083: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.4MB 
+Disk space recovered: 109.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:929333): Gdk-CRITICAL **: 21:05:28.038: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.4MB 
+Disk space recovered: 109.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:935075): Gdk-CRITICAL **: 19:05:32.094: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.4MB 
+Disk space recovered: 109.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:942577): Gdk-CRITICAL **: 17:05:35.144: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.4MB 
+Disk space recovered: 109.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:949808): Gdk-CRITICAL **: 15:05:38.980: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.4MB 
+Disk space recovered: 109.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:954865): Gdk-CRITICAL **: 13:05:42.137: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.5MB 
+Disk space recovered: 109.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:959499): Gdk-CRITICAL **: 11:05:45.918: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.5MB 
+Disk space recovered: 109.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:968122): Gdk-CRITICAL **: 09:05:48.826: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.4MB 
+Disk space recovered: 109.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:973372): Gdk-CRITICAL **: 07:05:50.889: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.4MB 
+Disk space recovered: 109.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:977784): Gdk-CRITICAL **: 19:38:33.720: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.5MB 
+Disk space recovered: 109.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:983854): Gdk-CRITICAL **: 17:38:36.488: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.5MB 
+Disk space recovered: 109.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:988727): Gdk-CRITICAL **: 15:38:40.412: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.5MB 
+Disk space recovered: 109.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:996571): Gdk-CRITICAL **: 13:38:43.864: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.5MB 
+Disk space recovered: 109.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1001817): Gdk-CRITICAL **: 11:38:46.871: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 109.5MB 
+Disk space recovered: 109.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1013443): Gdk-CRITICAL **: 09:38:50.033: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 110.1MB 
+Disk space recovered: 110.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1020595): Gdk-CRITICAL **: 07:38:51.112: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 110.1MB 
+Disk space recovered: 110.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1025932): Gdk-CRITICAL **: 05:38:54.956: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 110.1MB 
+Disk space recovered: 110.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1029746): Gdk-CRITICAL **: 03:38:57.484: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 110.1MB 
+Disk space recovered: 110.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1034021): Gdk-CRITICAL **: 01:38:58.584: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 110.4MB 
+Disk space recovered: 110.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1037920): Gdk-CRITICAL **: 23:39:00.713: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 110.4MB 
+Disk space recovered: 110.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1041720): Gdk-CRITICAL **: 21:39:04.683: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 110.4MB 
+Disk space recovered: 110.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1045014): Gdk-CRITICAL **: 19:39:06.324: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 110.4MB 
+Disk space recovered: 110.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1045273): Gdk-CRITICAL **: 22:30:01.820: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 110.4MB 
+Disk space recovered: 110.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1049492): Gdk-CRITICAL **: 20:30:05.614: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.9MB 
+Disk space recovered: 111.9MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1054090): Gdk-CRITICAL **: 18:30:06.675: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 110.4MB 
+Disk space recovered: 110.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1057982): Gdk-CRITICAL **: 16:30:09.536: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 160.4MB 
+Disk space recovered: 160.4MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1068614): Gdk-CRITICAL **: 14:30:12.910: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111MB 
+Disk space recovered: 111MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1069803): Gdk-CRITICAL **: 23:37:51.327: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111MB 
+Disk space recovered: 111MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1074925): Gdk-CRITICAL **: 21:37:53.327: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111MB 
+Disk space recovered: 111MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1079480): Gdk-CRITICAL **: 19:37:56.705: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111MB 
+Disk space recovered: 111MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1083590): Gdk-CRITICAL **: 17:37:59.277: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.1MB 
+Disk space recovered: 111.1MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1087135): Gdk-CRITICAL **: 15:38:02.927: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.2MB 
+Disk space recovered: 111.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1091540): Gdk-CRITICAL **: 13:38:06.351: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.2MB 
+Disk space recovered: 111.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1094727): Gdk-CRITICAL **: 11:38:07.667: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.2MB 
+Disk space recovered: 111.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1099682): Gdk-CRITICAL **: 09:38:10.737: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.2MB 
+Disk space recovered: 111.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1103395): Gdk-CRITICAL **: 07:38:12.920: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.2MB 
+Disk space recovered: 111.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1107372): Gdk-CRITICAL **: 05:38:15.337: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.2MB 
+Disk space recovered: 111.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1112418): Gdk-CRITICAL **: 03:38:17.626: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.2MB 
+Disk space recovered: 111.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1127296): Gdk-CRITICAL **: 01:38:20.004: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112MB 
+Disk space recovered: 112MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1137889): Gdk-CRITICAL **: 23:38:21.318: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.2MB 
+Disk space recovered: 111.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1152524): Gdk-CRITICAL **: 21:38:23.778: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.2MB 
+Disk space recovered: 111.2MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1168441): Gdk-CRITICAL **: 19:38:27.656: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 161.7MB 
+Disk space recovered: 161.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1190097): Gdk-CRITICAL **: 17:38:31.737: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1194775): Gdk-CRITICAL **: 00:36:42.490: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1209775): Gdk-CRITICAL **: 22:36:44.435: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1223793): Gdk-CRITICAL **: 20:36:46.013: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1235930): Gdk-CRITICAL **: 18:36:47.018: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.9MB 
+Disk space recovered: 111.9MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1239597): Gdk-CRITICAL **: 16:36:49.454: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1249156): Gdk-CRITICAL **: 14:36:53.032: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1253129): Gdk-CRITICAL **: 12:36:55.011: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1259104): Gdk-CRITICAL **: 10:36:56.393: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1263459): Gdk-CRITICAL **: 08:36:58.638: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1267644): Gdk-CRITICAL **: 06:37:02.523: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1271725): Gdk-CRITICAL **: 04:37:06.164: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1276917): Gdk-CRITICAL **: 02:37:09.400: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 111.8MB 
+Disk space recovered: 111.8MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1287601): Gdk-CRITICAL **: 23:33:17.955: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.7MB 
+Disk space recovered: 112.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1304332): Gdk-CRITICAL **: 21:33:20.434: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.7MB 
+Disk space recovered: 112.7MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1313323): Gdk-CRITICAL **: 19:33:23.736: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1324347): Gdk-CRITICAL **: 17:33:26.535: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1335190): Gdk-CRITICAL **: 15:33:30.381: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1344199): Gdk-CRITICAL **: 13:33:33.422: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1354331): Gdk-CRITICAL **: 11:33:36.178: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.5MB 
+Disk space recovered: 112.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1362861): Gdk-CRITICAL **: 09:33:37.779: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.5MB 
+Disk space recovered: 112.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1372979): Gdk-CRITICAL **: 07:33:39.269: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.5MB 
+Disk space recovered: 112.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1381218): Gdk-CRITICAL **: 05:33:43.131: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.5MB 
+Disk space recovered: 112.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1390776): Gdk-CRITICAL **: 03:33:44.468: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.5MB 
+Disk space recovered: 112.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1394125): Gdk-CRITICAL **: 01:33:45.570: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.5MB 
+Disk space recovered: 112.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1399136): Gdk-CRITICAL **: 23:33:47.839: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.5MB 
+Disk space recovered: 112.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1404916): Gdk-CRITICAL **: 20:37:57.091: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.5MB 
+Disk space recovered: 112.5MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1410136): Gdk-CRITICAL **: 18:38:00.521: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1416629): Gdk-CRITICAL **: 16:38:02.405: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1426197): Gdk-CRITICAL **: 14:38:03.994: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 124.6MB 
+Disk space recovered: 124.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1436494): Gdk-CRITICAL **: 12:38:05.841: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1446144): Gdk-CRITICAL **: 10:38:08.747: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1459632): Gdk-CRITICAL **: 08:38:11.406: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1469747): Gdk-CRITICAL **: 01:47:22.708: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1475707): Gdk-CRITICAL **: 12:01:39.483: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1479556): Gdk-CRITICAL **: 17:57:46.021: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 112.6MB 
+Disk space recovered: 112.6MB
+Files deleted: 0
+Special operations: 2
+
+
+(bleachbit:1931568): Gdk-CRITICAL **: 22:00:15.914: gdk_screen_get_root_window: assertion 'GDK_IS_SCREEN (screen)' failed
+apt-get autoremove 0B 
+apt-get clean 114.4MB 
+Disk space recovered: 114.4MB
+Files deleted: 0
+Special operations: 2
+
